@@ -1,0 +1,31 @@
+_repo: This-Freedom_6415
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hutchinson, A. S. M. (Arthur Stuart-Menteth)
+    alias: Hutchinson, Arthur Stuart-Menteth
+    birthdate: 1880
+    deathdate: 1971
+    gutenberg_agent_id: '2028'
+    url: http://www.gutenberg.org/2009/agents/2028
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Stuart-Menteth_Hutchinson
+description: Arthur S. Hutchinson was hailed by the New York Times as having the touch
+  of a master hand." Here he tackles the question of a woman's place in the home in
+  This freedom. Attacked as an anti-feminist novel, it is an intriguing portrait of
+  a marriage in the early twentieth century.
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2004-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6415'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women -- Social and moral questions -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Marriage -- Fiction'
+- GITenberg
+title: This Freedom
+url: http://www.gutenberg.org/ebooks/6415
