@@ -1,5 +1,8 @@
 _repo: This-Freedom_6415
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hutchinson, A. S. M. (Arthur Stuart-Menteth)
@@ -13,6 +16,8 @@ description: Arthur S. Hutchinson was hailed by the New York Times as having the
   of a master hand." Here he tackles the question of a woman's place in the home in
   This freedom. Attacked as an anti-feminist novel, it is an intriguing portrait of
   a marriage in the early twentieth century.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6415#This-Freedom
 gutenberg_bookshelf: Bestsellers, American, 1895-1923
 gutenberg_issued: '2004-09-01'
 gutenberg_type: Text
